@@ -1,0 +1,9 @@
+
+
+.section {
+    display: none;
+  }
+  
+  .section:target {
+    display: block !important;
+  }
